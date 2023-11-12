@@ -1,0 +1,15 @@
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\bin\Debug\net7.0\Api.Vols.Datas.Context.deps.json
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\bin\Debug\net7.0\Api.Vols.Datas.Context.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\bin\Debug\net7.0\Api.Vols.Datas.Context.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\bin\Debug\net7.0\Api.Vols.Generals.Common.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\bin\Debug\net7.0\Api.Vols.Generals.Common.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\obj\Debug\net7.0\Api.Vols.Datas.Context.csproj.AssemblyReference.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\obj\Debug\net7.0\Api.Vols.Datas.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\obj\Debug\net7.0\Api.Vols.Datas.Context.AssemblyInfoInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\obj\Debug\net7.0\Api.Vols.Datas.Context.AssemblyInfo.cs
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\obj\Debug\net7.0\Api.Vols.Datas.Context.csproj.CoreCompileInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\obj\Debug\net7.0\Api.Vols.Datas.Context.csproj.CopyComplete
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\obj\Debug\net7.0\Api.Vols.Datas.Context.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\obj\Debug\net7.0\refint\Api.Vols.Datas.Context.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\obj\Debug\net7.0\Api.Vols.Datas.Context.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Context\obj\Debug\net7.0\ref\Api.Vols.Datas.Context.dll

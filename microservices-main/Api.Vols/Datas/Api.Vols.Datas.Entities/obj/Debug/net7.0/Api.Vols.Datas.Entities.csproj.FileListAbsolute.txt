@@ -1,0 +1,12 @@
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Entities\bin\Debug\net7.0\Api.Vols.Datas.Entities.deps.json
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Entities\bin\Debug\net7.0\Api.Vols.Datas.Entities.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Entities\bin\Debug\net7.0\Api.Vols.Datas.Entities.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Entities\obj\Debug\net7.0\Api.Vols.Datas.Entities.csproj.AssemblyReference.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Entities\obj\Debug\net7.0\Api.Vols.Datas.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Entities\obj\Debug\net7.0\Api.Vols.Datas.Entities.AssemblyInfoInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Entities\obj\Debug\net7.0\Api.Vols.Datas.Entities.AssemblyInfo.cs
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Entities\obj\Debug\net7.0\Api.Vols.Datas.Entities.csproj.CoreCompileInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Entities\obj\Debug\net7.0\Api.Vols.Datas.Entities.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Entities\obj\Debug\net7.0\refint\Api.Vols.Datas.Entities.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Entities\obj\Debug\net7.0\Api.Vols.Datas.Entities.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Datas\Api.Vols.Datas.Entities\obj\Debug\net7.0\ref\Api.Vols.Datas.Entities.dll

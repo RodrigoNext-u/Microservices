@@ -1,0 +1,15 @@
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\bin\Debug\net7.0\Api.Reservation.Datas.Context.deps.json
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\bin\Debug\net7.0\Api.Reservation.Datas.Context.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\bin\Debug\net7.0\Api.Reservation.Datas.Context.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\bin\Debug\net7.0\Api.Reservation.Datas.Entities.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\bin\Debug\net7.0\Api.Reservation.Datas.Entities.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\obj\Debug\net7.0\Api.Reservation.Datas.Context.csproj.AssemblyReference.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\obj\Debug\net7.0\Api.Reservation.Datas.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\obj\Debug\net7.0\Api.Reservation.Datas.Context.AssemblyInfoInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\obj\Debug\net7.0\Api.Reservation.Datas.Context.AssemblyInfo.cs
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\obj\Debug\net7.0\Api.Reservation.Datas.Context.csproj.CoreCompileInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\obj\Debug\net7.0\Api.Reservation.Datas.Context.csproj.CopyComplete
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\obj\Debug\net7.0\Api.Reservation.Datas.Context.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\obj\Debug\net7.0\refint\Api.Reservation.Datas.Context.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\obj\Debug\net7.0\Api.Reservation.Datas.Context.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Context\obj\Debug\net7.0\ref\Api.Reservation.Datas.Context.dll

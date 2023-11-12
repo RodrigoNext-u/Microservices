@@ -1,0 +1,11 @@
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Business\Api.Reservation.Business.Models\bin\Debug\net7.0\Api.Reservation.Business.Models.deps.json
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Business\Api.Reservation.Business.Models\bin\Debug\net7.0\Api.Reservation.Business.Models.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Business\Api.Reservation.Business.Models\bin\Debug\net7.0\Api.Reservation.Business.Models.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Business\Api.Reservation.Business.Models\obj\Debug\net7.0\Api.Reservation.Business.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Business\Api.Reservation.Business.Models\obj\Debug\net7.0\Api.Reservation.Business.Models.AssemblyInfoInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Business\Api.Reservation.Business.Models\obj\Debug\net7.0\Api.Reservation.Business.Models.AssemblyInfo.cs
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Business\Api.Reservation.Business.Models\obj\Debug\net7.0\Api.Reservation.Business.Models.csproj.CoreCompileInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Business\Api.Reservation.Business.Models\obj\Debug\net7.0\Api.Reservation.Business.Models.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Business\Api.Reservation.Business.Models\obj\Debug\net7.0\refint\Api.Reservation.Business.Models.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Business\Api.Reservation.Business.Models\obj\Debug\net7.0\Api.Reservation.Business.Models.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Business\Api.Reservation.Business.Models\obj\Debug\net7.0\ref\Api.Reservation.Business.Models.dll

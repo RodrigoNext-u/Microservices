@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Api.Vols\\Api.Vols.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Api.Vols\\Api.Vols.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Api.Vols\\Api.Vols.csproj",
+        "projectName": "Api.Vols",
+        "projectPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Api.Vols\\Api.Vols.csproj",
+        "packagesPath": "C:\\Users\\reisr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Api.Vols\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Repository\\Api.Vols.Datas.Repository.csproj": {
+                "projectPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Repository\\Api.Vols.Datas.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Context\\Api.Vols.Datas.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Context\\Api.Vols.Datas.Context.csproj",
+        "projectName": "Api.Vols.Datas.Context",
+        "projectPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Context\\Api.Vols.Datas.Context.csproj",
+        "packagesPath": "C:\\Users\\reisr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Generals\\Api.Vols.Generals.Common\\Api.Vols.Generals.Common.csproj": {
+                "projectPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Generals\\Api.Vols.Generals.Common\\Api.Vols.Generals.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Entities\\Api.Vols.Datas.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Entities\\Api.Vols.Datas.Entities.csproj",
+        "projectName": "Api.Vols.Datas.Entities",
+        "projectPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Entities\\Api.Vols.Datas.Entities.csproj",
+        "packagesPath": "C:\\Users\\reisr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Repository\\Api.Vols.Datas.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Repository\\Api.Vols.Datas.Repository.csproj",
+        "projectName": "Api.Vols.Datas.Repository",
+        "projectPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Repository\\Api.Vols.Datas.Repository.csproj",
+        "packagesPath": "C:\\Users\\reisr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Context\\Api.Vols.Datas.Context.csproj": {
+                "projectPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Context\\Api.Vols.Datas.Context.csproj"
+              },
+              "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Entities\\Api.Vols.Datas.Entities.csproj": {
+                "projectPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Entities\\Api.Vols.Datas.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Generals\\Api.Vols.Generals.Common\\Api.Vols.Generals.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Generals\\Api.Vols.Generals.Common\\Api.Vols.Generals.Common.csproj",
+        "projectName": "Api.Vols.Generals.Common",
+        "projectPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Generals\\Api.Vols.Generals.Common\\Api.Vols.Generals.Common.csproj",
+        "packagesPath": "C:\\Users\\reisr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Generals\\Api.Vols.Generals.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

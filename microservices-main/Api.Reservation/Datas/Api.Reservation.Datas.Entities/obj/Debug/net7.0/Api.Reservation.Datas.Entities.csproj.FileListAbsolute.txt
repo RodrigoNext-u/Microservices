@@ -1,0 +1,12 @@
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Entities\bin\Debug\net7.0\Api.Reservation.Datas.Entities.deps.json
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Entities\bin\Debug\net7.0\Api.Reservation.Datas.Entities.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Entities\bin\Debug\net7.0\Api.Reservation.Datas.Entities.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Entities\obj\Debug\net7.0\Api.Reservation.Datas.Entities.csproj.AssemblyReference.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Entities\obj\Debug\net7.0\Api.Reservation.Datas.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Entities\obj\Debug\net7.0\Api.Reservation.Datas.Entities.AssemblyInfoInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Entities\obj\Debug\net7.0\Api.Reservation.Datas.Entities.AssemblyInfo.cs
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Entities\obj\Debug\net7.0\Api.Reservation.Datas.Entities.csproj.CoreCompileInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Entities\obj\Debug\net7.0\Api.Reservation.Datas.Entities.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Entities\obj\Debug\net7.0\refint\Api.Reservation.Datas.Entities.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Entities\obj\Debug\net7.0\Api.Reservation.Datas.Entities.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Datas\Api.Reservation.Datas.Entities\obj\Debug\net7.0\ref\Api.Reservation.Datas.Entities.dll

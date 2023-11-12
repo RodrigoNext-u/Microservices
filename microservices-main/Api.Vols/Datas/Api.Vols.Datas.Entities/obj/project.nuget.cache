@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XQ8GspafP7gbWJP5Uq5D/B8bMysMgp40WSxhqepDdh76IhVY2/G8vYnR6mcDj0ECf3PnyAL3vL/sa4E6vNPoLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Entities\\Api.Vols.Datas.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reisr\\.nuget\\packages\\litedb\\5.0.17\\litedb.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

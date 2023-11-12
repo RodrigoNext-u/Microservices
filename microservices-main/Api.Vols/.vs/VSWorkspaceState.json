@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Api.Vols",
+    "\\Api.Vols\\Controllers",
+    "\\Api.Vols\\obj",
+    "\\Api.Vols\\Properties",
+    "\\Database",
+    "\\Datas",
+    "\\Datas\\Api.Vols.Datas.Context",
+    "\\Datas\\Api.Vols.Datas.Repository",
+    "\\Generals"
+  ],
+  "SelectedNode": "\\Api.Vols.sln",
+  "PreviewInSolutionExplorer": false
+}

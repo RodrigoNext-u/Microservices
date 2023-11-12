@@ -1,0 +1,11 @@
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Generals\Api.Vols.Generals.Common\bin\Debug\net7.0\Api.Vols.Generals.Common.deps.json
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Generals\Api.Vols.Generals.Common\bin\Debug\net7.0\Api.Vols.Generals.Common.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Generals\Api.Vols.Generals.Common\bin\Debug\net7.0\Api.Vols.Generals.Common.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Generals\Api.Vols.Generals.Common\obj\Debug\net7.0\Api.Vols.Generals.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Generals\Api.Vols.Generals.Common\obj\Debug\net7.0\Api.Vols.Generals.Common.AssemblyInfoInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Generals\Api.Vols.Generals.Common\obj\Debug\net7.0\Api.Vols.Generals.Common.AssemblyInfo.cs
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Generals\Api.Vols.Generals.Common\obj\Debug\net7.0\Api.Vols.Generals.Common.csproj.CoreCompileInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Generals\Api.Vols.Generals.Common\obj\Debug\net7.0\Api.Vols.Generals.Common.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Generals\Api.Vols.Generals.Common\obj\Debug\net7.0\refint\Api.Vols.Generals.Common.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Generals\Api.Vols.Generals.Common\obj\Debug\net7.0\Api.Vols.Generals.Common.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Vols\Generals\Api.Vols.Generals.Common\obj\Debug\net7.0\ref\Api.Vols.Generals.Common.dll

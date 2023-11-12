@@ -1,0 +1,11 @@
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Generals\Api.Reservation.Generals.Common\bin\Debug\net7.0\Api.Reservation.Generals.Common.deps.json
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Generals\Api.Reservation.Generals.Common\bin\Debug\net7.0\Api.Reservation.Generals.Common.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Generals\Api.Reservation.Generals.Common\bin\Debug\net7.0\Api.Reservation.Generals.Common.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Generals\Api.Reservation.Generals.Common\obj\Debug\net7.0\Api.Reservation.Generals.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Generals\Api.Reservation.Generals.Common\obj\Debug\net7.0\Api.Reservation.Generals.Common.AssemblyInfoInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Generals\Api.Reservation.Generals.Common\obj\Debug\net7.0\Api.Reservation.Generals.Common.AssemblyInfo.cs
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Generals\Api.Reservation.Generals.Common\obj\Debug\net7.0\Api.Reservation.Generals.Common.csproj.CoreCompileInputs.cache
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Generals\Api.Reservation.Generals.Common\obj\Debug\net7.0\Api.Reservation.Generals.Common.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Generals\Api.Reservation.Generals.Common\obj\Debug\net7.0\refint\Api.Reservation.Generals.Common.dll
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Generals\Api.Reservation.Generals.Common\obj\Debug\net7.0\Api.Reservation.Generals.Common.pdb
+C:\Users\reisr\Downloads\Cours\Micro services\V2\microservices-main\microservices-main\Api.Reservation\Generals\Api.Reservation.Generals.Common\obj\Debug\net7.0\ref\Api.Reservation.Generals.Common.dll

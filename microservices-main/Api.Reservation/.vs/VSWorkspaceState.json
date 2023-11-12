@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Business",
+    "\\Business\\Api.Reservation.Business.Service",
+    "\\Datas",
+    "\\Datas\\Api.Reservation.Datas.Context",
+    "\\Datas\\Api.Reservation.Datas.Repository"
+  ],
+  "SelectedNode": "\\Datas\\Api.Reservation.Datas.Repository\\UtilisateurRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

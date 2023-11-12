@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rggc9UHm7T2yh6kwDu3U/USi32uLZSeFsWjxZ5k8okH2lYcsqj05iUacwQ5c116ivkXU20eQ5jwAKaI5D7kvww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\reisr\\Downloads\\Cours\\Micro services\\V2\\microservices-main\\microservices-main\\Api.Vols\\Datas\\Api.Vols.Datas.Repository\\Api.Vols.Datas.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reisr\\.nuget\\packages\\litedb\\5.0.17\\litedb.5.0.17.nupkg.sha512",
+    "C:\\Users\\reisr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\reisr\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\reisr\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
